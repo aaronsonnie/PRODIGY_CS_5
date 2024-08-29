@@ -1,4 +1,4 @@
-# PRODIGY_CS_05
+# PRODIGY_CS_5
 
 # Network Packet Analyzer
 This Python program captures and analyzes network packets, providing detailed information such as source and destination IP addresses, protocols, and payload data. It is intended for educational purposes only, and ethical use is essential.
